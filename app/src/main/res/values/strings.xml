@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="logout">Logout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open_nav">open navigation</string>
+    <string name="close_nav">close navigation</string>
+    <string name="name_is_clicked">Name is Clicked</string>
+    <string name="email_fragment">Email Fragment</string>
+    <string name="logout_fragment">Logout Fragment</string>
+</resources>
